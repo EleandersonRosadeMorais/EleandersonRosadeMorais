@@ -46,7 +46,7 @@ Exemplo: "Desenvolvedor Full-Stack com 3 anos de experiência, especializado em 
 ## 📈 Contribuições
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=<seu_user>&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EleandersonRosadeMorais&theme=github-compact" />
 </div>
 
 ## 📫 Como me encontrar
